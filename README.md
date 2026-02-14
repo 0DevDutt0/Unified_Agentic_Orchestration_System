@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Unified Cognitive Orchestration Engine
+# 🧠 multi-agent-ai-orchestration-system
 
 ### *Intelligent Multi-Agent Chatbot with Voice, RAG, and SQL Capabilities*
 
@@ -19,7 +19,7 @@
 
 ## 📋 Overview
 
-**Unified Cognitive Orchestration Engine** is an advanced multi-agent chatbot system that intelligently routes user queries to specialized AI agents. Built with **Streamlit**, **LangChain**, and multiple LLM providers, it demonstrates production-grade AI orchestration patterns for real-world applications.
+**multi-agent-ai-orchestration-system** is an advanced multi-agent chatbot system that intelligently routes user queries to specialized AI agents. Built with **Streamlit**, **LangChain**, and multiple LLM providers, it demonstrates production-grade AI orchestration patterns for real-world applications.
 
 The system seamlessly integrates **voice input**, **document processing (RAG)**, **SQL database querying**, and **web search** into a unified conversational interface.
 
@@ -134,7 +134,7 @@ sequenceDiagram
 ## 🗂️ Project Structure
 
 ```
-Unified_Cognitive_Orchestration_Engine/
+multi-agent-ai-orchestration-system/
 ├── app.py                      # Main Streamlit application
 ├── ChatBot.py                  # Simple chatbot UI template
 ├── sql_agent.py                # SQL agent configuration
@@ -178,8 +178,8 @@ Unified_Cognitive_Orchestration_Engine/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/0DevDutt0/Unified_Cognitive_Orchestration_Engine.git
-   cd Unified_Cognitive_Orchestration_Engine
+   git clone https://github.com/0DevDutt0/multi-agent-ai-orchestration-system.git
+   cd multi-agent-ai-orchestration-system
    ```
 
 2. **Create virtual environment**
@@ -447,6 +447,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 **Built with ❤️ by an AI engineer passionate about multi-agent systems**
 
-[Report Bug](https://github.com/0DevDutt0/Unified_Cognitive_Orchestration_Engine/issues) • [Request Feature](https://github.com/0DevDutt0/Unified_Cognitive_Orchestration_Engine/issues)
+[Report Bug](https://github.com/0DevDutt0/multi-agent-ai-orchestration-system/issues) • [Request Feature](https://github.com/0DevDutt0/multi-agent-ai-orchestration-system/issues)
 
 </div>
